@@ -106,10 +106,10 @@
         scroll_layer {
             label = "SCROLL";
             bindings = <
-&trans  &trans  &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans                          &trans
+&trans  &trans  &trans  &trans  &trans                  &trans                &trans             &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans                  &kp C_AC_SCROLL_UP    &kp K_SCROLL_UP    &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans                  &kp C_AC_SCROLL_DOWN  &kp K_SCROLL_DOWN  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans                                                   &trans
             >;
         };
 
