@@ -56,10 +56,10 @@
         default_layer {
             label = "OONS";
             bindings = <
-&kp Q                &kp L           &kp U        &kp COMMA         &kp PERIOD                               &kp F        &kp W              &kp R        &kp Y            &kp P
-&mt LEFT_META MINUS  &mt LEFT_ALT I  &mt RCTRL A  &mt LEFT_SHIFT O  &kp E                                    &kp K        &mt RIGHT_SHIFT T  &mt RCTRL N  &mt RIGHT_ALT S  &mt RIGHT_META H
-&kp Z                &kp X           &kp C        &kp V             &kp SEMICOLON                            &kp G        &kp D              &kp M        &kp J            &kp B
-&lt 3 LCTRL          &kp LGUI        &kp LALT     &lt 6 ESCAPE      &lt 4 SPACE    &lt 1 TAB  &kp BACKSPACE  &lt 2 ENTER                                                   &kp SLASH
+&kp Q                &kp L           &kp U           &kp COMMA         &kp PERIOD                               &kp F        &kp W              &kp R        &kp Y            &kp P
+&mt LEFT_META MINUS  &mt LEFT_ALT I  &mt RCTRL A     &mt LEFT_SHIFT O  &kp E                                    &kp K        &mt RIGHT_SHIFT T  &mt RCTRL N  &mt RIGHT_ALT S  &mt RIGHT_META H
+&kp Z                &kp X           &kp C           &kp V             &kp SEMICOLON                            &kp G        &kp D              &kp M        &kp J            &kp B
+&lt 3 LCTRL          &kp LGUI        &lt 5 LEFT_ALT  &lt 6 ESCAPE      &lt 4 SPACE    &lt 1 TAB  &kp BACKSPACE  &lt 2 ENTER                                                   &kp SLASH
             >;
         };
 
