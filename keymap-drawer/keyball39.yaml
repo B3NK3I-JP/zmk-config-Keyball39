@@ -46,27 +46,27 @@ layers:
   - '3'
   - '4'
   - '5'
-  - '6'
+  - KP MINUS
   - KP 7
   - KP 8
   - KP 9
-  - '0'
+  - KP SLASH
   - $$mdi:arrow-left-bold$$
   - $$mdi:arrow-down-bold$$
   - $$mdi:arrow-up-bold$$
   - $$mdi:arrow-right-bold$$
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - KP PLUS
   - KP 4
   - KP 5
   - KP 6
+  - KP ASTERISK
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
   - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
-  - {t: '$$mdi:minus-circle-outline$$', type: none}
+  - KP DOT
   - KP 1
   - KP 2
   - KP 3
